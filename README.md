@@ -12,7 +12,7 @@ yarn start
 
 2. Inside Component.js, make a class component
 
-3. Add a render function of the class component add a string
+3. Add a render function of the class component add a string and modify the index.js to use Component.js instead of App.js
 
 4. Add constructor to set a state variable of the string, then change the render function to use the state variable.
 
